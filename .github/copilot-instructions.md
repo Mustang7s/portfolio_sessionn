@@ -24,4 +24,4 @@ Maintain design consistency by following these rules:
 ## Content Structure
 - Single page layout, no navigation bar.
 - Sections: Hero, About, Awards, Projects, Experience, Tech Stack, Contact.
-- Call to Action: Resume button in Hero linking to `/Rivu Chattopadhyay_IT.pdf`.
+- Call to Action: Resume button in Hero linking to `/Prince.E.Rutto_IT.pdf`.

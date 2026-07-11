@@ -25,7 +25,7 @@ export const Contact = () => {
           <div className="flex flex-col md:flex-row gap-6 mt-12 overflow-x-auto w-full no-scrollbar">
             <a 
               href="mailto:rivu851@gmail.com"
-              aria-label="Send email to Rivu Chattopadhyay"
+              aria-label="Send email to Prince.E.Rutto"
               className="flex items-center gap-6 px-10 py-8 border-2 border-background group/btn hover:bg-background transition-all duration-300 bg-background/5"
             >
               <Mail className="h-6 w-6 text-background group-hover/btn:text-foreground transition-colors" />
@@ -39,7 +39,7 @@ export const Contact = () => {
               href="https://linkedin.com/in/rivu851/" 
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Visit Rivu Chattopadhyay on LinkedIn"
+              aria-label="Visit Prince.E.Rutto on LinkedIn"
               className="flex items-center gap-6 px-10 py-8 border-2 border-background group/btn hover:bg-background transition-all duration-300 bg-background/5"
             >
               <LinkedinIcon className="h-6 w-6 text-background group-hover/btn:text-foreground transition-colors" />
@@ -79,7 +79,7 @@ export const Contact = () => {
       {/* Final Meta Row */}
       <div className="grid grid-cols-1 md:grid-cols-3 w-full text-[9px] font-black uppercase tracking-[0.4em] text-background/60 bg-background/5 relative z-10">
         <GridCell className="py-10 border-r border-background/20" noBorder>
-          © 2026 Rivu Chattopadhyay
+          © 2026 Prince.E.Rutto
         </GridCell>
         <GridCell className="py-10 border-r border-background/20" noBorder>
           Kolkata, India // Available

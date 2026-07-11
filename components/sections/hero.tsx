@@ -30,7 +30,7 @@ export const Hero = () => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 1, delay: 0.2 }}
         >
-          Rivu Chattopadhyay
+          Prince.E.Rutto
         </motion.p>
         <h1 className="font-display leading-[0.85] tracking-tighter uppercase font-black text-foreground flex flex-col w-full text-left">
           <div className="overflow-hidden pb-2 pt-1">
@@ -105,7 +105,7 @@ export const Hero = () => {
           >
             <Image 
               src="/rivu.jpeg" 
-              alt="Rivu Chattopadhyay" 
+              alt="Prince.E.Rutto" 
               fill
               sizes="(max-width: 768px) 100vw, 33vw"
               className="object-cover transition-all duration-1000 ease-[0.16, 1, 0.3, 1] group-hover:scale-110 group-hover:brightness-110 grayscale group-hover:grayscale-0"

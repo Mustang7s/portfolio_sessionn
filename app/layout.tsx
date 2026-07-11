@@ -5,40 +5,40 @@ import { NoiseOverlay } from "@/components/ui/noise-overlay";
 export const metadata: Metadata = {
   metadataBase: new URL("https://portfolio-session-gdg.vercel.app/"), // Replace with your actual domain before deploying
   title: {
-    default: "Rivu Chattopadhyay | Full Stack Developer",
-    template: "%s | Rivu Chattopadhyay"
+    default: "Prince.E.Rutto | Full Stack Developer",
+    template: "%s | Prince.E.Rutto"
   },
-  description: "Portfolio of Rivu Chattopadhyay — SDE Intern, MERN/PERN Stack Developer, and GenAI Enthusiast. Building scalable web architectures and user-centric digital products.",
+  description: "Portfolio of Prince.E.Rutto — SDE Intern, MERN/PERN Stack Developer, and GenAI Enthusiast. Building scalable web architectures and user-centric digital products.",
   keywords: [
     "Full Stack Developer", "Software Engineer", "MERN Stack", "PERN Stack",
-    "React Developer", "Next.js Developer", "Generative AI", "Rivu Chattopadhyay",
+    "React Developer", "Next.js Developer", "Generative AI", "Prince.E.Rutto",
     "Web Development India", "Frontend Developer", "Backend Developer",
     "Kolkata Developer", "SDE Intern", "Hackathon Winner"
   ],
-  authors: [{ name: "Rivu Chattopadhyay", url: "https://portfolio-session-gdg.vercel.app/" }],
-  creator: "Rivu Chattopadhyay",
-  publisher: "Rivu Chattopadhyay",
+  authors: [{ name: "Prince.E.Rutto", url: "https://portfolio-session-gdg.vercel.app/" }],
+  creator: "Prince.E.Rutto",
+  publisher: "Prince.E.Rutto",
   category: "technology",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://portfolio-session-gdg.vercel.app/",
-    title: "Rivu Chattopadhyay | Full Stack Developer",
-    description: "Portfolio of Rivu Chattopadhyay — SDE Intern, MERN/PERN Stack Developer, and GenAI Enthusiast.",
-    siteName: "Rivu Chattopadhyay Portfolio",
+    title: "Prince.E.Rutto | Full Stack Developer",
+    description: "Portfolio of Prince.E.Rutto — SDE Intern, MERN/PERN Stack Developer, and GenAI Enthusiast.",
+    siteName: "Prince.E.Rutto Portfolio",
     images: [
       {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Rivu Chattopadhyay — Full Stack Developer Portfolio"
+        alt: "Prince.E.Rutto — Full Stack Developer Portfolio"
       }
     ]
   },
   twitter: {
     card: "summary_large_image",
-    title: "Rivu Chattopadhyay | Full Stack Developer",
-    description: "Portfolio of Rivu Chattopadhyay — SDE Intern, MERN/PERN Stack Developer, and GenAI Enthusiast.",
+    title: "Prince.E.Rutto | Full Stack Developer",
+    description: "Portfolio of Prince.E.Rutto — SDE Intern, MERN/PERN Stack Developer, and GenAI Enthusiast.",
     creator: "@rivudev", 
     images: ["/og-image.jpg"],
   },
@@ -80,7 +80,7 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Person",
-              "name": "Rivu Chattopadhyay",
+              "name": "Prince.E.Rutto",
               "jobTitle": "Full Stack Developer & AI Engineer",
               "description": "Full-stack developer specializing in MERN stack, scalable architectures, and Generative AI applications.",
               "url": "https://portfolio-session-gdg.vercel.app/",

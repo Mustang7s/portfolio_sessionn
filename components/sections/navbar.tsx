@@ -86,7 +86,7 @@ export const Navbar = () => {
 
             {/* Resume — hidden on mobile, shown via mobile menu */}
             <a
-              href="/Rivu Chattopadhyay_IT.pdf"
+              href="/Prince.E.Rutto_IT.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden sm:flex px-5 md:px-10 h-full items-center bg-accent text-background font-accent text-[9px] uppercase font-black tracking-[0.2em] group gap-2 hover:bg-foreground hover:text-background transition-all border-l border-transparent"
@@ -168,7 +168,7 @@ export const Navbar = () => {
               <span>GitHub</span>
             </a>
             <a
-              href="/Rivu Chattopadhyay_IT.pdf"
+              href="/Prince.E.Rutto_IT.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="flex flex-1 items-center justify-center gap-2 px-6 py-5 bg-accent text-background font-accent text-[11px] uppercase font-black tracking-[0.2em] group hover:bg-foreground transition-all min-h-[56px]"
