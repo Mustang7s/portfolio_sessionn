@@ -82,7 +82,7 @@ export const Contact = () => {
           © 2026 Prince.E.Rutto
         </GridCell>
         <GridCell className="py-10 border-r border-background/20" noBorder>
-          Kolkata, India // Available
+          Nairobi, Kenya // Available
         </GridCell>
         <GridCell className="py-10" noBorder>
           <div className="flex justify-between items-center w-full px-4">

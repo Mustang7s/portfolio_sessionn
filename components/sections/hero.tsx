@@ -67,7 +67,7 @@ export const Hero = () => {
           <div className="space-y-12">
             <div>
               <p className="font-accent text-[10px] uppercase font-bold tracking-[0.15em] text-foreground/40 mb-4 italic">Location</p>
-              <h3 className="font-sans text-lg font-black uppercase tracking-tighter">Kolkata, India</h3>
+              <h3 className="font-sans text-lg font-black uppercase tracking-tighter">Nairobi, Kenya</h3>
             </div>
             <div>
               <p className="font-accent text-[10px] uppercase font-bold tracking-[0.15em] text-foreground/40 mb-4 italic">Status</p>
