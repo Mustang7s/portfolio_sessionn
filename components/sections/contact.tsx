@@ -24,14 +24,14 @@ export const Contact = () => {
           
           <div className="flex flex-col md:flex-row gap-6 mt-12 overflow-x-auto w-full no-scrollbar">
             <a 
-              href="mailto:rivu851@gmail.com"
+              href="mailto:ruttoevans85@gmail.com"
               aria-label="Send email to Prince.E.Rutto"
               className="flex items-center gap-6 px-10 py-8 border-2 border-background group/btn hover:bg-background transition-all duration-300 bg-background/5"
             >
               <Mail className="h-6 w-6 text-background group-hover/btn:text-foreground transition-colors" />
               <div className="shrink-0 text-background group-hover/btn:text-foreground transition-colors">
                 <p className="font-accent text-[9px] uppercase font-bold tracking-[0.3em] opacity-60 mb-1">Email</p>
-                <p className="font-sans font-black text-lg uppercase tracking-tight">rivu851@gmail.com</p>
+                <p className="font-sans font-black text-lg uppercase tracking-tight">ruttoevans85@gmail.com</p>
               </div>
             </a>
             

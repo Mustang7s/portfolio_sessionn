@@ -75,7 +75,7 @@ export const Navbar = () => {
 
             {/* GitHub — hidden on mobile */}
             <a
-              href="https://github.com/rivu851"
+              href="https://https://github.com/Mustang7s"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"
@@ -158,7 +158,7 @@ export const Navbar = () => {
           {/* Mobile Resume + GitHub row */}
           <div className="flex items-stretch">
             <a
-              href="https://github.com/rivu851"
+              href="https://https://github.com/Mustang7s"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub"

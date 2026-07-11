@@ -1,7 +1,7 @@
 # Developer Identity
 Name: Prince.E.Rutto
 Role: Full Stack Developer
-Contact: rivu851@gmail.com
+Contact: ruttoevans85@gmail.com
 Website: https://portfolio-session-gdg.vercel.app/
 
 ## Professional Overview

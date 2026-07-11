@@ -84,10 +84,10 @@ export default function RootLayout({
               "jobTitle": "Full Stack Developer & AI Engineer",
               "description": "Full-stack developer specializing in MERN stack, scalable architectures, and Generative AI applications.",
               "url": "https://portfolio-session-gdg.vercel.app/",
-              "email": "rivu851@gmail.com",
+              "email": "ruttoevans85@gmail.com",
               "sameAs": [
                 "https://linkedin.com/in/rivu851",
-                "https://github.com/rivu851"
+                "https://https://github.com/Mustang7s"
               ],
               "address": {
                 "@type": "PostalAddress",

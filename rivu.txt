@@ -1,5 +1,5 @@
 Prince.E.Rutto
-+91-990-310-7102 | rivu851@gmail.com | linkedin.com/in/rivu851/ | rivu-chattopadhyay.vercel.app | github.com/rivu851
++254-736-416362 | ruttoevans85@gmail.com | linkedin.com/in/rivu851/ | rivu-chattopadhyay.vercel.app | https://github.com/Mustang7s
 EDUCATION
 RCC Institute of Information Technology (MAKAUT) Kolkata, WB
 B.Tech. in Information Technology Aug 2023 – June 2027
@@ -23,13 +23,13 @@ Voyager – All in One Travel Webapp:
 – Developed full-stack architecture using MERN + React Native for cross-platform accessibility
 Tech Stack: React.js, React Native, TailwindCSS, Node.js, Express.js, MongoDB, GenAI (Gemini), Google Maps API, Weather API,
 Razorpay
-GitHub: https://github.com/rivu851/Voyeger_2026
+GitHub: https://https://github.com/Mustang7s
 IMEET’25 – Annual IT Tech Fest of RCCIIT:
 – Developed the official website used by 250+ students, handling 400+ event registrations
 – Built responsive UI and backend services, supporting 100+ concurrent users with smooth performance
 – Integrated authentication and real-time updates, achieving <2s load time and reliable event-day usage
 Tech Stack: Next.js, Node.js, Express.js, PostgreSQL, Supabase, TailwindCSS, Cloudflare, Big Rock, Auth0
-Github: https://github.com/rivu851/IMeeT_main
+Github: https://https://github.com/Mustang7s/IMeeT_main
 
 SKILLS SUMMARY
 Languages: JavaScript, TypeScript, HTML5, CSS3, C, Python, Java
