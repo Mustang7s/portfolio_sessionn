@@ -1,0 +1,49 @@
+RIVU CHATTOPADHYAY
++91-990-310-7102 | rivu851@gmail.com | linkedin.com/in/rivu851/ | rivu-chattopadhyay.vercel.app | github.com/rivu851
+EDUCATION
+RCC Institute of Information Technology (MAKAUT) Kolkata, WB
+B.Tech. in Information Technology Aug 2023 – June 2027
+
+EXPERIENCE
+SDE Intern Sept 2025 – Present
+Ora Tech Labs Remote
+– Developed full-stack mobile and web applications using React Native and Node.js, improving user engagement by 30%+
+– Authored comprehensive SRS and system design documentation, aligning development with scalable architecture
+– Integrated wearable band hardware via APIs/Bluetooth, enabling real-time data synchronization under 2s latency
+
+BRIEF SUMMARY
+3rd-year IT student with hands-on experience in MERN/PERN stack and React Native, focused on building scalable web and mobile
+applications. Familiar with Spring Boot and an enthusiastic learner in Generative AI.
+
+PROJECTS
+Voyager – All in One Travel Webapp:
+– Built an AI-powered travel platform enabling users to plan, explore, and manage trips with real-time assistance
+– Integrated GenAI (Gemini) to develop a chatbot and virtual tour guide for personalized recommendations
+– Implemented features like booking, weather comparison, smart navigation, and emergency support
+– Developed full-stack architecture using MERN + React Native for cross-platform accessibility
+Tech Stack: React.js, React Native, TailwindCSS, Node.js, Express.js, MongoDB, GenAI (Gemini), Google Maps API, Weather API,
+Razorpay
+GitHub: https://github.com/rivu851/Voyeger_2026
+IMEET’25 – Annual IT Tech Fest of RCCIIT:
+– Developed the official website used by 250+ students, handling 400+ event registrations
+– Built responsive UI and backend services, supporting 100+ concurrent users with smooth performance
+– Integrated authentication and real-time updates, achieving <2s load time and reliable event-day usage
+Tech Stack: Next.js, Node.js, Express.js, PostgreSQL, Supabase, TailwindCSS, Cloudflare, Big Rock, Auth0
+Github: https://github.com/rivu851/IMeeT_main
+
+SKILLS SUMMARY
+Languages: JavaScript, TypeScript, HTML5, CSS3, C, Python, Java
+Frontend: React.js, Next.js, React Native, Expo, TailwindCSS, Bootstrap,
+Backend: Node.js, Express.js, Spring Boot
+Tools: VS Code, Git, GitHub, Firebase, Supabase, IntelliJ IDEA
+Databases: MongoDB, PostgreSQL
+
+HONORS/ ACHIEVEMENTS
+-Hult Prize National Finalist'2026
+–Hult Prize on Campus 1
+st Runner Up
+–Karmatek’26 Hackathon (GCECT) 1st Runner Up
+–Geekathon’25 Top 10
+– Google Developers Group on Campus Web Lead
+– ACM Students Chapter on Campus Web Lead
+– IMEET’25 Tech Lead

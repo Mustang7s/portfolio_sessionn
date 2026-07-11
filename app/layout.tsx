@@ -1,0 +1,117 @@
+import type { Metadata } from "next";
+import "./globals.css";
+import { NoiseOverlay } from "@/components/ui/noise-overlay";
+
+export const metadata: Metadata = {
+  metadataBase: new URL("https://portfolio-session-gdg.vercel.app/"), // Replace with your actual domain before deploying
+  title: {
+    default: "Rivu Chattopadhyay | Full Stack Developer",
+    template: "%s | Rivu Chattopadhyay"
+  },
+  description: "Portfolio of Rivu Chattopadhyay — SDE Intern, MERN/PERN Stack Developer, and GenAI Enthusiast. Building scalable web architectures and user-centric digital products.",
+  keywords: [
+    "Full Stack Developer", "Software Engineer", "MERN Stack", "PERN Stack",
+    "React Developer", "Next.js Developer", "Generative AI", "Rivu Chattopadhyay",
+    "Web Development India", "Frontend Developer", "Backend Developer",
+    "Kolkata Developer", "SDE Intern", "Hackathon Winner"
+  ],
+  authors: [{ name: "Rivu Chattopadhyay", url: "https://portfolio-session-gdg.vercel.app/" }],
+  creator: "Rivu Chattopadhyay",
+  publisher: "Rivu Chattopadhyay",
+  category: "technology",
+  openGraph: {
+    type: "website",
+    locale: "en_US",
+    url: "https://portfolio-session-gdg.vercel.app/",
+    title: "Rivu Chattopadhyay | Full Stack Developer",
+    description: "Portfolio of Rivu Chattopadhyay — SDE Intern, MERN/PERN Stack Developer, and GenAI Enthusiast.",
+    siteName: "Rivu Chattopadhyay Portfolio",
+    images: [
+      {
+        url: "/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Rivu Chattopadhyay — Full Stack Developer Portfolio"
+      }
+    ]
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Rivu Chattopadhyay | Full Stack Developer",
+    description: "Portfolio of Rivu Chattopadhyay — SDE Intern, MERN/PERN Stack Developer, and GenAI Enthusiast.",
+    creator: "@rivudev", 
+    images: ["/og-image.jpg"],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  alternates: {
+    canonical: "https://portfolio-session-gdg.vercel.app/",
+  },
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html lang="en" className="dark h-full antialiased scroll-smooth" suppressHydrationWarning>
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Instrument+Serif:ital@0;1&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+          rel="stylesheet"
+        />
+      </head>
+      <body className="min-h-full flex flex-col bg-background selection:bg-accent selection:text-white">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "name": "Rivu Chattopadhyay",
+              "jobTitle": "Full Stack Developer & AI Engineer",
+              "description": "Full-stack developer specializing in MERN stack, scalable architectures, and Generative AI applications.",
+              "url": "https://portfolio-session-gdg.vercel.app/",
+              "email": "rivu851@gmail.com",
+              "sameAs": [
+                "https://linkedin.com/in/rivu851",
+                "https://github.com/rivu851"
+              ],
+              "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Kolkata",
+                "addressRegion": "West Bengal",
+                "addressCountry": "IN"
+              },
+              "alumniOf": {
+                "@type": "EducationalOrganization",
+                "name": "RCC Institute of Information Technology"
+              },
+              "knowsAbout": [
+                "React", "Next.js", "Node.js", "PostgreSQL", "MongoDB",
+                "TypeScript", "Generative AI", "System Design", "Spring Boot"
+              ]
+            })
+          }}
+        />
+        <NoiseOverlay />
+        <main className="relative flex-1 flex flex-col">
+          {children}
+        </main>
+      </body>
+    </html>
+  );
+}
+
