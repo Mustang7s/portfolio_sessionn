@@ -35,14 +35,14 @@ export const About = () => {
             >
               <p className="relative font-display text-3xl md:text-5xl leading-[1.1] text-foreground/90 italic mb-12">
                 <span className="absolute -left-8 md:-left-12 top-0 text-accent/20 text-7xl md:text-9xl font-accent leading-none select-none">“</span>
-                I take pride in writing clean, scalable, and maintainable code while developing user-centric applications that address real-world needs.
+              I transform complex ideas into scalable, high-performance software. Whether architecting enterprise backend systems, building modern full-stack applications, or integrating Generative AI, I focus on creating secure, maintainable, and user-centric solutions. My approach combines clean architecture, modern engineering practices, and thoughtful design to deliver digital products that solve real-world problems and scale with confidence
               </p>
               
               <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
                 <div className="space-y-6">
                   <p className="font-sans text-lg text-foreground/70 leading-relaxed font-medium">
-                    Currently in my 3rd year of B.Tech in Information Technology from 
-                    <span className="text-foreground font-black"> RCC Institute of Information Technology, Kolkata.</span>
+                    Software Engineer specializing in Full-Stack Development and AI Solutions From
+                    <span className="text-foreground font-black"> Nairobi, Kenya.</span>
                   </p>
                   <p className="font-sans text-base text-foreground/60 leading-relaxed">
                     I actively engage in hackathons and coding events to enhance technical expertise and collaborate on impactful solutions. 
@@ -52,7 +52,7 @@ export const About = () => {
                 
                 <div className="space-y-6">
                   <p className="font-sans text-base text-foreground/60 leading-relaxed">
-                    My background spans full-stack development, impactful presentations, team leadership, and a growing expertise in 
+My background spans full-stack development, AI engineering, and scalable software Architecture in
                     <span className="text-foreground"> Machine Learning</span>.
                   </p>
                   <div className="pt-6">
