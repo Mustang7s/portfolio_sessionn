@@ -34,6 +34,12 @@ export const Awards = () => {
       icon: Star,
       details:
         "Completed intensive practical training in Unity game development, software architecture, and production workflows."
+    },
+      {
+    title: "HO-B2V Electrical Safety Certification",
+    year: "2025",
+    icon: Star,
+    details: "Advanced certification in electrical safety, energized systems, lockout/tagout procedures, and risk management."
     }
   ];
 
