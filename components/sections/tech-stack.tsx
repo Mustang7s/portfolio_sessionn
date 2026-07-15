@@ -20,7 +20,7 @@ const TECH_CATEGORIES = [
       { name: "Node.js / Express", level: 90 },
       { name: "PostgreSQL / Prisma", level: 80 },
       { name: "MongoDB", level: 85 },
-      { name: "Spring Boot", level: 70 }
+      { name: "Spring Boot Java", level: 70 }
     ]
   },
   {
@@ -29,7 +29,8 @@ const TECH_CATEGORIES = [
       { name: "Generative AI (LLMs)", level: 85 },
       { name: "Python / PyTorch", level: 75 },
       { name: "System Design", level: 80 },
-      { name: "Auth / Security", level: 75 }
+      { name: "Auth / Security", level: 75 },
+      { name: "Cloud Computing", level: 70 }
     ]
   }
 ];

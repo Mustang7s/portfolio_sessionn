@@ -36,7 +36,8 @@ export const Contact = () => {
             </a>
             
             <a 
-              href="https://linkedin.com/in/rivu851/" 
+              href="https://linkedin.com/in/rutto-evans-4b28b9218
+" 
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Visit Prince.E.Rutto on LinkedIn"

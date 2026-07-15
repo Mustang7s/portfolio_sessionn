@@ -7,45 +7,63 @@ import { motion } from "framer-motion";
 
 export const Experience = () => {
   const experiences = [
-    {
-      company: "Ora Tech Labs",
-      role: "SDE Intern",
-      period: "Sept 2025 – Present",
-      location: "Remote",
-      points: [
-        "Developed full-stack mobile and web applications using React Native and Node.js, improving user engagement by 30%+",
-        "Authored comprehensive SRS and system design documentation, aligning development with scalable architecture",
-        "Integrated wearable band hardware via APIs/Bluetooth, enabling real-time data synchronization under 2s latency"
-      ]
-    },
-    {
-      company: "Google Developers Group",
-      role: "Web Lead",
-      period: "2025 - Present",
-      location: "On Campus",
-      points: [
-        "Driving web technology adoption and leading technical initiatives across the university ecosystem."
-      ]
-    },
-    {
-      company: "ACM Students Chapter",
-      role: "Web Lead",
-      period: "2025 - Present",
-      location: "On Campus",
-      points: [
-        "Organizing web development workshops and managing the technical presence of the chapter."
-      ]
-    },
-    {
-      company: "IMEET'25",
-      role: "Tech Lead",
-      period: "2025",
-      location: "On Campus",
-      points: [
-        "Led the technical infrastructure and digital operations for the annual tech fest."
-      ]
-    }
-  ];
+
+  {
+    company: "IKA360",
+    role: "Full-Stack Web Developer (Contract)",
+    period: "Feb 2026 – Mar 2026",
+    location: "Remote",
+    points: [
+      "Led the end-to-end redesign of the IKA360 platform using Next.js, Tailwind CSS, and ShadCN UI.",
+      "Integrated Convex, Clerk Authentication, and Resend to build a secure, scalable application.",
+      "Deployed a production-ready cloud-native solution on Vercel with performance optimization."
+    ]
+  },
+  {
+    company: "OppX.AI",
+    role: "AI Developer & Software Engineer",
+    period: "Jul 2025 – Sep 2025",
+    location: "Remote",
+    points: [
+      "Developed AI voice agents and SaaS applications for healthcare and real estate industries.",
+      "Integrated Vapi, ElevenLabs, HubSpot CRM, and AWS cloud services for intelligent automation.",
+      "Implemented Docker and GitHub Actions CI/CD pipelines for scalable deployments."
+    ]
+  },
+  {
+    company: "Mimshark Kenya × Pesafast",
+    role: "Full-Stack Developer",
+    period: "May 2025 – Jun 2025",
+    location: "Hybrid",
+    points: [
+      "Built enterprise betting platforms using Spring Boot, Node.js, MySQL, and PostgreSQL.",
+      "Integrated payment gateways, JWT authentication, and WebSocket-powered real-time services.",
+      "Designed scalable backend APIs supporting secure financial transactions."
+    ]
+  },
+  {
+    company: "Brisk Credit Ltd",
+    role: "Software Developer Intern",
+    period: "Oct 2023 – Jun 2024",
+    location: "On-site",
+    points: [
+      "Developed secure microfinance applications using Spring Boot, React, MySQL, and REST APIs.",
+      "Built responsive web applications with Next.js and integrated GraphQL APIs.",
+      "Developed analytics dashboards and enhanced application security."
+    ]
+  },
+  {
+    company: "Aga Khan University Hospital",
+    role: "IT Support Technician & Network Administrator",
+    period: "Oct 2022 – May 2023",
+    location: "On-site",
+    points: [
+      "Supported over 100 staff by managing IT infrastructure, network administration, and technical support.",
+      "Contributed to the implementation of the Meditech Hospital Information System.",
+      "Performed system administration, data backup, cybersecurity, and network optimization."
+    ]
+  }
+];
 
   const [isMobile, setIsMobile] = React.useState(false);
 
