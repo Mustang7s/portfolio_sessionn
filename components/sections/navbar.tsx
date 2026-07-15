@@ -46,7 +46,7 @@ export const Navbar = () => {
           {/* Logo */}
           <div className="flex px-4 sm:px-6 h-full items-center border-r border-border shrink-0 min-w-[120px] sm:min-w-[160px] md:min-w-[200px]">
             <span className="font-display text-xl sm:text-2xl tracking-tighter uppercase font-black text-foreground">
-              Rivu.C
+              Prince.E .Rutto
             </span>
           </div>
 
