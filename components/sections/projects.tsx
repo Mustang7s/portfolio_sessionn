@@ -7,53 +7,39 @@ import { motion } from "framer-motion";
 
 const PROJECTS = [
   {
-    title: "Voyager (Hotel Management)",
-    desc: "A comprehensive hotel management and booking platform designed for scale.",
+    title: "Maison (Interior Design)",
+    desc: "A comprehensive interior design platform showcasing curated spaces and furniture.",
     tags: ["React", "ExpressJS", "MongoDB", "NodeJS"],
-    link: "https://hotels-managment-brlo.vercel.app/hotelbook",
-    type: "Scaleable Management"
+    link: "https://maison-homes.vercel.app/",
+    type: "E-commerce"
   },
   {
-    title: "GDGC RCCIIT Website",
-    desc: "Official hub for Google Developer Groups on Campus at RCCIIT. Fostering innovation and collaboration.",
-    tags: ["Next.js", "Framer Motion", "Lottie"],
-    link: "https://www.gdgcrcc.tech/",
-    type: "Official Community"
+    title: "WRLDS AI Integration",
+    desc: "AI-powered textile sensors into clothing, footwear, and wearables.",
+    tags: ["Next.js","React","Framer Motion", "Lottie"],
+    link: "https://wrlds-ai-integration-2170.vercel.app/",
+    type: "AI Integration"
   },
   {
-    title: "IMeeT 2025 Website",
-    desc: "Custom-built platform for the IT Department’s annual fest. Built for high traffic and interaction.",
-    tags: ["React", "TailwindCSS", "Node", "Supabase"],
-    link: "#",
-    type: "Event Platform"
+    title: "DG Specialists (Replica)",
+    desc: "A pixel-accurate clone build focused on replicating a specialist/consulting site's UI and layout",
+    tags: ["React", "TailwindCSS", "Node", "Supabase","ML"],
+    link: "https://dg-specialists-replica.vercel.app/",
+    type: "Consulting Logistics Platform"
   },
   {
-    title: "Emergency Alert System",
-    desc: "Safety-focused web app with real-time location and secure emergency contact registration.",
-    tags: ["React", "ExpressJS", "MongoDB", "NodeJS"],
-    link: "https://emergency-qlgnqlygl-rivu-chatterjees-projects.vercel.app/",
-    type: "Real-time Safety"
+    title: "PureDrops",
+    desc: "A clean, conversion-focused landing page for a consumer product brand",
+    tags: ["React", "ML", "TailwindCSS","ShaDCN"],
+    link: "https://puredrops.vercel.app/",
+    type: "E-Commerce"
   },
   {
-    title: "Smart Weather & Advice",
-    desc: "ML-based weather forecasting and travel packing suggestions integrated into Voyager.",
-    tags: ["React", "ML", "TailwindCSS"],
-    link: "https://weather-three-peach.vercel.app/",
-    type: "ML Predictive"
-  },
-  {
-    title: "Skill Route",
-    desc: "Curated educational platform helping users navigate skill-based learning resources.",
-    tags: ["HTML", "CSS", "JS"],
-    link: "https://skill-route-2256.vercel.app/",
-    type: "Educational Path"
-  },
-  {
-    title: "Souvenir Booking App",
-    desc: "Full-stack e-commerce system with admin inventory management and secure authentication.",
-    tags: ["React", "ExpressJS", "MongoDB", "NodeJS"],
-    link: "https://emergency-qlgnqlygl-rivu-chatterjees-projects.vercel.app/",
-    type: "E-Commerce / CRUD"
+    title: "96 Lost",
+    desc: "Kenyan digital media brand that licenses cinematic 4x4 off-roading footage and secures sponsorships for remote expeditions",
+    tags: ["React", "ExpressJS","Python", "MongoDB", "NodeJS"],
+    link: "https://www.96lost.com/",
+    type: "Brand Hub"
   }
 ];
 
