@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { NoiseOverlay } from "@/components/ui/noise-overlay";
+import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://portfolio-session-gdg.vercel.app/"), // Replace with your actual domain before deploying
@@ -110,6 +111,7 @@ export default function RootLayout({
         <main className="relative flex-1 flex flex-col">
           {children}
         </main>
+        <Analytics />
       </body>
     </html>
   );
