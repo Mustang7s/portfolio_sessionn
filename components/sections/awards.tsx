@@ -8,28 +8,32 @@ import { motion } from "framer-motion";
 export const Awards = () => {
   const honors = [
     {
-      title: "Hult Prize National Finalist",
-      year: "2026",
-      icon: Trophy,
-      details: "Top tier recognition for social entrepreneurship and innovative business modeling on a national scale."
-    },
-    {
-      title: "Hult Prize on Campus 1st Runner Up",
-      year: "2026",
-      icon: Star,
-      details: "Recognized for innovative solutions and business modeling at the campus level."
-    },
-    {
-      title: "Karmatek'26 Hackathon 1st Runner Up",
-      year: "2026",
-      icon: Trophy,
-      details: "1st Runner Up (GCECT). Developed full-stack solutions under intensive 24h pressure during the annual technical fest."
-    },
-    {
-      title: "Geekathon'25 Top 10",
-      year: "2025",
-      icon: Star,
-      details: "Secured a top 10 position among numerous participating teams in the competitive Geekathon."
+     const achievements = [
+  {
+    title: "University of Cambridge",
+    year: "2026",
+    icon: Trophy,
+    details: "Completed the Carbon Accounting & ESG Analysis Programme, specializing in sustainability, carbon accounting, and ESG reporting."
+  },
+  {
+    title: "Bachelor of Business Information Technology",
+    year: "2022 – 2025",
+    icon: Star,
+    details: "Graduated from Strathmore University with a strong foundation in software engineering, enterprise systems, AI, and cloud technologies."
+  },
+  {
+    title: "Diploma in Business Information Technology",
+    year: "2021 – 2022",
+    icon: Trophy,
+    details: "Completed a diploma at Strathmore University, building core competencies in software development, networking, databases, and information systems."
+  },
+  {
+    title: "Unity Game Development Certification",
+    year: "2025",
+    icon: Star,
+    details: "Completed intensive practical training in Unity game development, software architecture, and production workflows."
+  }
+];
     }
   ];
 
