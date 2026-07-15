@@ -19,7 +19,7 @@ export const About = () => {
           </div>
           <div className="hidden md:block relative z-10">
             <p className="font-sans text-[10px] text-foreground/50 leading-relaxed max-w-[120px] uppercase tracking-widest font-bold">
-              A 3rd-year technical narrative from RCCIIT, Kolkata.
+             A Software Engineer crafting scalable systems and intelligent solutions.
             </p>
           </div>
         </div>
@@ -45,19 +45,18 @@ export const About = () => {
                     <span className="text-foreground font-black"> Nairobi, Kenya.</span>
                   </p>
                   <p className="font-sans text-base text-foreground/60 leading-relaxed">
-                    I actively engage in hackathons and coding events to enhance technical expertise and collaborate on impactful solutions. 
-                    Notably, I was part of the organizing team for the <span className="text-accent font-bold">Smart Bengal Hackathon.</span>
+         I am committed to continuous learning through hackathons, technical leadership, and real-world software development. These experiences have strengthened my expertise in building scalable solutions while earning recognition as a <span className="text-accent font-bold">3× Hackathon Winner</span> and <span className="text-accent font-bold">Web Lead.</span>
                   </p>
                 </div>
                 
                 <div className="space-y-6">
                   <p className="font-sans text-base text-foreground/60 leading-relaxed">
 My background spans full-stack development, AI engineering, and scalable software Architecture in
-                    <span className="text-foreground"> Machine Learning</span>.
+                    <span className="text-foreground"> cloud technologies & sustainable innovation.</span>.
                   </p>
                   <div className="pt-6">
                      <a 
-                      href="https://linkedin.com/in/rivu851/" 
+                      href="https://linkedin.com/in/ruttoevans85/" 
                       className="inline-flex items-center gap-4 group"
                     >
                       <div className="h-px w-10 bg-accent group-hover:w-16 transition-all duration-500" />

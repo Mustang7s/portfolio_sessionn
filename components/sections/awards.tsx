@@ -17,7 +17,7 @@ export const Awards = () => {
     {
       title: "Bachelor of Business Information Technology",
       year: "2022 – 2025",
-      icon: Star,
+      icon: Trophy,
       details:
         "Graduated from Strathmore University with a strong foundation in software engineering, enterprise systems, AI, and cloud technologies."
     },
