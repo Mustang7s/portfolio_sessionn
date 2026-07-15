@@ -8,32 +8,32 @@ import { motion } from "framer-motion";
 export const Awards = () => {
   const honors = [
     {
-     const achievements = [
-  {
-    title: "University of Cambridge",
-    year: "2026",
-    icon: Trophy,
-    details: "Completed the Carbon Accounting & ESG Analysis Programme, specializing in sustainability, carbon accounting, and ESG reporting."
-  },
-  {
-    title: "Bachelor of Business Information Technology",
-    year: "2022 – 2025",
-    icon: Star,
-    details: "Graduated from Strathmore University with a strong foundation in software engineering, enterprise systems, AI, and cloud technologies."
-  },
-  {
-    title: "Diploma in Business Information Technology",
-    year: "2021 – 2022",
-    icon: Trophy,
-    details: "Completed a diploma at Strathmore University, building core competencies in software development, networking, databases, and information systems."
-  },
-  {
-    title: "Unity Game Development Certification",
-    year: "2025",
-    icon: Star,
-    details: "Completed intensive practical training in Unity game development, software architecture, and production workflows."
-  }
-];
+      title: "University of Cambridge",
+      year: "2026",
+      icon: Trophy,
+      details:
+        "Completed the Carbon Accounting & ESG Analysis Programme, specializing in sustainability, carbon accounting, and ESG reporting."
+    },
+    {
+      title: "Bachelor of Business Information Technology",
+      year: "2022 – 2025",
+      icon: Star,
+      details:
+        "Graduated from Strathmore University with a strong foundation in software engineering, enterprise systems, AI, and cloud technologies."
+    },
+    {
+      title: "Diploma in Business Information Technology",
+      year: "2021 – 2022",
+      icon: Trophy,
+      details:
+        "Completed a diploma at Strathmore University, building core competencies in software development, networking, databases, and information systems."
+    },
+    {
+      title: "Unity Game Development Certification",
+      year: "2025",
+      icon: Star,
+      details:
+        "Completed intensive practical training in Unity game development, software architecture, and production workflows."
     }
   ];
 
