@@ -1,0 +1,81 @@
+Prince E. Rutto
+
+Software Engineer | AI Developer | Full-Stack Engineer
+
+Contact
+Email: ruttoevans85@gmail.com
+Portfolio: Personal Portfolio
+GitHub: GitHub
+LinkedIn: LinkedIn
+Professional Overview
+
+Software Engineer specializing in building scalable full-stack applications, AI-powered solutions, and cloud-native systems. Experienced in modern web technologies, enterprise software, intelligent automation, and high-performance application development.
+
+Strong focus on combining clean architecture, modern design principles, cloud technologies, and Generative AI to build production-ready, user-centric software solutions.
+
+Technical Skills
+Frontend
+
+React, Next.js, Vue.js, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, ShadCN UI, Bootstrap
+
+Backend
+
+Node.js, Express.js, Java Spring Boot, Django, FastAPI, PHP, GraphQL, REST APIs
+
+Databases
+
+PostgreSQL, MongoDB, MySQL, Oracle, SQL Server
+
+Cloud & DevOps
+
+AWS, Azure, Docker, GitHub Actions, Vercel
+
+AI & Machine Learning
+
+Generative AI, Vapi, ElevenLabs, TensorFlow, PyTorch, Pandas, NumPy, Conversational AI, LLM Integration
+
+Tools & Platforms
+
+Git, GitHub, Figma, Convex, Clerk, HubSpot, Resend
+
+Project & Engineering Focus
+AI-powered SaaS applications and intelligent voice agents
+Enterprise web applications for fintech, healthcare, and gaming
+Modern full-stack platforms with scalable architectures
+Cloud-native applications and automated deployment pipelines
+High-performance APIs and backend systems
+Database architecture and system design
+Responsive, accessible, and user-focused UI/UX
+Business process automation and intelligent workflows
+Generative AI and LLM-powered applications
+Industry Experience
+
+Experience contributing to software solutions across:
+
+Healthcare Technology
+Financial Technology (FinTech)
+Enterprise SaaS
+AI Automation
+Gaming & Betting Platforms
+Business Process Automation
+Professional Highlights
+Software Engineer with experience delivering production-ready applications
+3× Hackathon Winner
+Web Lead
+Experienced in scalable AI-powered and enterprise systems
+Strong background in full-stack development, backend engineering, cloud technologies, and Generative AI
+Passionate about modern software architecture, cloud computing, automation, and emerging technologies
+Professional Opportunities
+
+Best aligned with opportunities such as:
+
+Software Engineer
+Full-Stack Developer / Engineer
+Backend Engineer
+AI Engineer
+Generative AI Developer
+Cloud Engineer
+Solutions Architect
+AI Automation Engineer
+Technical Consultant
+Enterprise Software Engineer
