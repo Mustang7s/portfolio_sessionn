@@ -41,7 +41,7 @@ export const Hero = () => {
               animate="visible"
               className="block text-[10vw] md:text-[6vw] text-accent tracking-[0.05em] ml-2 md:ml-4 -ml-[0.02em]"
             >
-              FULL STACK
+              FULL STACK , AI
             </motion.span>
           </div>
           <div className="overflow-hidden pb-4 pt-2 w-full">
@@ -89,7 +89,7 @@ export const Hero = () => {
           <div className="space-y-10 max-w-xl">
             <div className="h-0.5 w-12 bg-accent" />
             <BlurText
-              text="A 3rd-year IT scholar focused on building scalable architectures and user-centric solutions. Specialized in the MERN stack with a growing expertise in Generative AI. 3x Hackathon Winner, Web Lead."
+              text="A Full-Stack Developer focused on scalable applications, AI engineering, Generative AI, and sustainable technology."
               delay={30}
               animateBy="words"
               direction="top"
