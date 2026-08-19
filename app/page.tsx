@@ -33,10 +33,10 @@ export const metadata: Metadata = {
     "Portfolio"
   ],
   openGraph: {
-    title: "Prince.E.Rutto | Full Stack Developer",
+    title: "Prince.E.Rutto | Software Developer",
     description:
-      "SDE Intern, MERN/PERN Stack Developer, Hackathon Winner, GenAI Enthusiast. Explore projects, experience, and skills.",
-    url: "https://portfolio-session-gdg.vercel.app/",
+      "A Software Engineer, AI Developer & Sustainable Technology Enthusiast.",
+    url: "https://ruttoprince.vercel.app/",
     images: [
       {
         url: "/og-image.jpg",
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
   twitter: {
     title: "Prince.E.Rutto | Full Stack Developer",
     description:
-      "SDE Intern, MERN/PERN Stack Developer, Hackathon Winner, GenAI Enthusiast.",
+      "A Software Engineer, AI Developer & Sustainable Technology Enthusiast.",
     images: ["/og-image.jpg"],
   },
 };

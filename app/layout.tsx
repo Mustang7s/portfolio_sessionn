@@ -4,7 +4,7 @@ import { NoiseOverlay } from "@/components/ui/noise-overlay";
 import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://portfolio-session-gdg.vercel.app/"), // Replace with your actual domain before deploying
+  metadataBase: new URL("https://ruttoprince.vercel.app/"), // Replace with your actual domain before deploying
   title: {
     default: "Prince.E.Rutto | Full Stack Developer",
     template: "%s | Prince.E.Rutto"
@@ -16,14 +16,14 @@ export const metadata: Metadata = {
     "Web Development India", "Frontend Developer", "Backend Developer",
     "Kolkata Developer", "SDE Intern", "Hackathon Winner"
   ],
-  authors: [{ name: "Prince.E.Rutto", url: "https://portfolio-session-gdg.vercel.app/" }],
+  authors: [{ name: "Prince.E.Rutto", url: "https://ruttoprince.vercel.app/" }],
   creator: "Prince.E.Rutto",
   publisher: "Prince.E.Rutto",
   category: "technology",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://portfolio-session-gdg.vercel.app/",
+    url: "https://ruttoprince.vercel.app/",
     title: "Prince.E.Rutto | Full Stack Developer",
     description: "Portfolio of Prince.E.Rutto — SDE Intern, MERN/PERN Stack Developer, and GenAI Enthusiast.",
     siteName: "Prince.E.Rutto Portfolio",
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://portfolio-session-gdg.vercel.app/",
+    canonical: "https://ruttoprince.vercel.app/",
   },
 };
 
@@ -84,7 +84,7 @@ export default function RootLayout({
               "name": "Prince.E.Rutto",
               "jobTitle": "Full Stack Developer & AI Engineer",
               "description": "Full-stack developer specializing in MERN stack, scalable architectures, and Generative AI applications.",
-              "url": "https://portfolio-session-gdg.vercel.app/",
+              "url": "https://ruttoprince.vercel.app/",
               "email": "ruttoevans85@gmail.com",
               "sameAs": [
                 "https://linkedin.com/in/rivu851",

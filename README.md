@@ -9,7 +9,7 @@
 
 ---
 
-🚀 Check out the live portfolio: https://portfolio-session-gdg.vercel.app/  
+🚀 Check out the live portfolio: https://ruttoprince.vercel.app/  
 
 If you like this project, consider giving it a star! ⭐
 

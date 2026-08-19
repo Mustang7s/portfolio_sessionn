@@ -18,4 +18,4 @@ Allow: /
 User-agent: OmgiliBot
 Allow: /
 
-Sitemap: https://portfolio-session-gdg.vercel.app/sitemap.xml
+Sitemap: https://ruttoprince.vercel.app/sitemap.xml
