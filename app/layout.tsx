@@ -88,7 +88,7 @@ export default function RootLayout({
               "email": "ruttoevans85@gmail.com",
               "sameAs": [
                 "https://linkedin.com/in/rivu851",
-                "https://https://github.com/Mustang7s"
+                "https://github.com/Mustang7s"
               ],
               "address": {
                 "@type": "PostalAddress",
