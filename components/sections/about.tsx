@@ -45,7 +45,7 @@ export const About = () => {
                     <span className="text-foreground font-black"> Nairobi, Kenya.</span>
                   </p>
                   <p className="font-sans text-base text-foreground/60 leading-relaxed">
-        I’m a Software Engineer and AI Developer focused on building scalable, cloud-native and AI-powered solutions, with a strong commitment to<span className="text-accent font-bold">sustainable technology</span> and <span className="text-accent font-bold">real-world impact.</span>
+        I’m a Software Engineer and AI Developer focused on building scalable, cloud-native and AI-powered solutions, with a strong commitment to <span className="text-accent font-bold"> sustainable technology </span> and <span className="text-accent font-bold"> real-world impact. </span>
                   </p>
                 </div>
                 

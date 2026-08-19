@@ -41,7 +41,7 @@ export const Hero = () => {
               animate="visible"
               className="block text-[10vw] md:text-[6vw] text-accent tracking-[0.05em] ml-2 md:ml-4 -ml-[0.02em]"
             >
-              FULL STACK , AI
+              FULL STACK & <AMP> AI
             </motion.span>
           </div>
           <div className="overflow-hidden pb-4 pt-2 w-full">
@@ -53,7 +53,7 @@ export const Hero = () => {
               className="block text-accent text-[clamp(4rem,15vw,25rem)] w-full -ml-[0.04em]"
               style={{ paddingBottom: '0.15em' }}
             >
-              DEVELOPER.
+              ENGINEER.
             </motion.span>
           </div>
         </h1>
