@@ -45,7 +45,7 @@ export const About = () => {
                     <span className="text-foreground font-black"> Nairobi, Kenya.</span>
                   </p>
                   <p className="font-sans text-base text-foreground/60 leading-relaxed">
-         I am committed to continuous learning through hackathons, technical leadership, and real-world software development. These experiences have strengthened my expertise in building scalable solutions while earning recognition as a <span className="text-accent font-bold">3× Hackathon Winner</span> and <span className="text-accent font-bold">Web Lead.</span>
+        I’m a Software Engineer and AI Developer focused on building scalable, cloud-native and AI-powered solutions, with a strong commitment to<span className="text-accent font-bold">sustainable technology</span> and <span className="text-accent font-bold">real-world impact.</span>
                   </p>
                 </div>
                 
